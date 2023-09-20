@@ -2,7 +2,7 @@
 <br> 
 
 My Major is **Computer Engineering**. <br>
-I'm studying **Server Application Development**.
+I'm studying **Server-side Application Development**.
 
 <br>
 
