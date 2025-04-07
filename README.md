@@ -1,5 +1,13 @@
+### 🧑🏻‍💻 Contributions
+- spring-projects/spring-boot
+
+  - Validate SslInfo in SslHealthIndicator https://github.com/spring-projects/spring-boot/pull/45013
+ 
+<br>
+
 ### 🏃‍♂️ Activities
 - [SOPT Makers APP 팀 백엔드 챕터](https://github.com/sopt-makers/sopt-backend) `2025.02 ~ now`
+
 - [SOPT 34기 서버 파트](https://github.com/NOW-SOPT-SERVER) `2024.04 ~ 2024.08`
 - 한성대학교 창업동아리 [Promi](https://github.com/Prom-I/Server) 서버 파트 `2023.09 ~ 2024.03`
 
